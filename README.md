@@ -1,5 +1,7 @@
 # Shape & Contour Analyzer
 
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) [![Live App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=flat-square&logo=streamlit)](https://shape-contour-analyzer.streamlit.app/)
+
 ## Overview
 This repository contains the **Shape & Contour Analyzer**, an interactive Computer Vision tool developed as a Digital Assignment for the Semester 8 Computer Vision course. The application leverages OpenCV and Streamlit to provide real-time geometric analysis, contour detection, and feature extraction of shapes within images.
 
